@@ -527,7 +527,7 @@
 		A77345981B7A93D00083EC8D /* UIColor+BTUI.m in Sources */ = {isa = PBXBuildFile; fileRef = A773452D1B7A93D00083EC8D /* UIColor+BTUI.m */; };
 		A77345991B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationView.h in Headers */ = {isa = PBXBuildFile; fileRef = A77345301B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationView.h */; };
 		A773459A1B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationView.m in Sources */ = {isa = PBXBuildFile; fileRef = A77345311B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationView.m */; };
-		A773459B1B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = A77345321B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationViewController.h */; };
+		A773459B1B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = A77345321B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A773459C1B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A77345331B7A93D00083EC8D /* BTMockApplePayPaymentAuthorizationViewController.m */; };
 		A773459D1B7A93D00083EC8D /* BTUIViewUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = A77345341B7A93D00083EC8D /* BTUIViewUtil.h */; };
 		A773459E1B7A93D00083EC8D /* BTUIViewUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = A77345351B7A93D00083EC8D /* BTUIViewUtil.m */; };
